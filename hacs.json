@@ -1,0 +1,9 @@
+{
+  "name": "Thermomètre Circulaire",
+  "description": "Custom card Home Assistant — anneau de température avec gradient interpolé, indicateur de tendance, glassmorphism, alertes visuelles et éditeur visuel complet.",
+  "documentation": "https://github.com/aloux32/temp-circle-card",
+  "render_example": "resources/example.png",
+  "content_in_root": true,
+  "filename": "temp-circle-card.js",
+  "homeassistant": "2023.9.0"
+}
